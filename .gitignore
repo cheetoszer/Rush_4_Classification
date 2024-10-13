@@ -10,3 +10,6 @@ __pycache__/
 
 # Ignorer les fichiers spécifiques à l'IDE (par exemple, VS Code)
 .vscode/
+
+# Ignorer le fichier data.ipynb
+data.ipynb

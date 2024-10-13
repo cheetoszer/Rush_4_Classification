@@ -1,6 +1,6 @@
 # Rush4
 
-Ines je veux un 20.
+Ines je veux un 20. Attention quand tu exec les cellules de recherche des paramètres optimaux. C'est pas nécéssaire et c'est très long.
 
 ## Prérequis
 
